@@ -47,7 +47,7 @@ It fuses OSINT, vulnerability scanning, network mapping, and covert operations i
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOURUSERNAME/blackice-command.git
+git clone https://github.com/wickednull/blackice-command.git
 cd blackice-command
 
 # Create a virtual environment
