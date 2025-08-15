@@ -74,7 +74,7 @@ def boot_sequence():
 | $$  \\$$| $$ /$$__  $$| $$      | $$_ $$   |  $$  | $$      | $$_____/
 | $$$$$$$/| $$|  $$$$$$$|  $$$$$$$| $$ \\ $$ /$$$$$$|  $$$$$$$|  $$$$$$$
 |_______/ |__/ \\_______/ \\_______/|__/  \\/|_____/ \\______/ \\______/
-{C.reset}{C.c4}Cyberpunk Offensive Console — BlackIce v1.8.1
+{C.reset}{C.c4}NetWatch Console — BlackIce v1.8.1
 {C.grey}BIOS: NX-7 Phantom  •  Firmware: Quicksilver/β  •  Owner: Null_Lyfe{C.reset}
 """
     print(banner)
