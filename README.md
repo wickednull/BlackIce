@@ -46,6 +46,7 @@ cd BlackIce
 
 chmod +x setup_blackice.sh
 
+
 # Create a virtual environment
 python3 -m venv venv
 source venv/bin/activate
@@ -91,4 +92,4 @@ Use responsibly — you are solely responsible for compliance with all applicabl
 👤 Credits
 
 Created by Null_Lyfe.
-Inspired by the NetWatch universe in Cyberpunk 2077.
+Inspired by Netwatch from the Cyberpunk 2077 universe. 
