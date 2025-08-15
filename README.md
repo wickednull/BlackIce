@@ -8,8 +8,7 @@ BlackIce Command is a cyberpunk-themed, all-in-one red team and reconnaissance t
   LOCATION: OPERATIONS NODE // TYCHO-07  
   STATUS: ONLINE – AUTHORIZED OPS CONSOLE  
 ─────────────────────────────────────  
-UNAUTHORIZED ACCESS IS A VIOLATION OF NETWATCH  
-STATUTES AND WILL TRIGGER BLACK ICE DEPLOYMENT  
+UNAUTHORIZED ACCESS IS A VIOLATION OF NETWATCH STATUTES AND WILL TRIGGER BLACK ICE DEPLOYMENT  
 ─────────────────────────────────────
 
 ## 📜 Overview
